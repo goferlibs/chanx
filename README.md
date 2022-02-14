@@ -14,7 +14,7 @@ Refer to the below articles and issues:
 ## Usage
 
 If you want to use it with Go 1.17.x or below, you can use `github.com/smallnest/chanx@1.0.0`.
-Since `github.com/smallnest/chanx@1.1.0`, it support Go generic.
+Since `github.com/smallnest/chanx@1.1.0`, it supports Go generic.
 
 ```go
 ch := NewUnboundedChan(1000)
